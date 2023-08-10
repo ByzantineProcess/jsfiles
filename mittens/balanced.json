@@ -1,0 +1,35 @@
+[
+    {
+        "id": "21b8bc42-7b26-11ed-bf6f-3728d5d36195",
+        "sort_order": 0,
+        "book": "balanced",
+        "classification": "cats",
+        "classification_hint_text": "",
+        "classification_text": "Cats",
+        "country_code": "xx",
+        "country_name": "International",
+        "crown_earned": null,
+        "description": "Mittens likes chess...but how good is she?",
+        "gender": null,
+        "human": null,
+        "image_url": "https://images.chesscomfiles.com/uploads/v1/user/212792427.43bc219b.160x160o.e41577a4ec02.png",
+        "image_url_override": null,
+        "is_adapt": false,
+        "is_enabled": true,
+        "is_premium": false,
+        "komodo_skill": null,
+        "komodo_skill_level": 25,
+        "live_online_rating": null,
+        "name": "Mittens",
+        "personality": "Positional",
+        "rating": 1,
+        "user_id": 212792427,
+        "username": "MittensBot",
+        "phrase_list": {
+            "greeting": "Meow! I like chess, hehehe."
+        },
+        "phrases": {
+            "greeting": "Meow! I like chess, hehehe."
+        }
+    }
+]
