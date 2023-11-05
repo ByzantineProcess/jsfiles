@@ -9,8 +9,7 @@
     <script>
       (async function () {
         await cheerpjInit();
-        const lib = await cheerpjRunJar("/app/jsfiles/procyon.jar");
-
+        const jar = await cheerpjRunJar("/app/jsfiles/procyon.jar", ["/app/jsfiles/ExampleMod.class"]);
       })();
     </script>
   </body>
